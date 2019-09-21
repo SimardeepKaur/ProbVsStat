@@ -3,7 +3,7 @@ layout: post
 title:  "Probability Vs Statistics"
 date:   2019-09-19 11:11:11 +0100
 ---
-Probability and statistics are core topics in Data Science which are studied together.But many of us fail to understand difference between the two. This blog will try to highlight their difference.
+Probability and statistics are core topics in Data Science which are studied together.But many of us fail to understand difference between the two. This blog will try to highlight difference betweeen them.
 
 ![Die Image](https://previews.123rf.com/images/jackethead/jackethead1112/jackethead111200009/11675115-close-up-of-a-single-die-rolling-six-.jpg "Throwing a die experiment")
 
